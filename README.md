@@ -7,3 +7,5 @@ Esse repositório tem como objetivo analisar as despesas de campanha dos candida
 **Aluno**: Jefferson de Moura Ferraz Lopes
 
 **RA**:1460481821041
+
+**Origem dos Dados**: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
