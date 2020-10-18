@@ -4,6 +4,8 @@ Esse repositório tem como objetivo analisar as despesas de campanha dos candida
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
+**Matéria**: Laboratório de Banco de Dados
+
 **Aluno**: Jefferson de Moura Ferraz Lopes
 
 **RA**:1460481821041
